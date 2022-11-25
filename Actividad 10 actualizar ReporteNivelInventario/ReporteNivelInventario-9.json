@@ -1,0 +1,242 @@
+{
+  "type": "NivelInventario",
+  "id": null,
+  "clase": null,
+  "name": null,
+  "cantidad": null,
+  "estatus": "sinEstatus",
+  "items": {
+    "300": {
+      "type": "Partida",
+      "id": "300",
+      "clase": "Partida",
+      "name": "Videojuegos",
+      "cantidad": "SinEstatus",
+      "estatus": "",
+      "items": {
+        "150": {
+          "type": "Subpartida",
+          "id": "150",
+          "clase": "Subpartida",
+          "name": "PcGaming",
+          "cantidad": "",
+          "estatus": "SinEstatus",
+          "items": {
+            "153": {
+              "type": "Categoria",
+              "id": "153",
+              "clase": "Categoria",
+              "name": "Computadora de escritorio de alta gama",
+              "cantidad": "3",
+              "estatus": "SinEstatus",
+              "items": {
+                "1532": {
+                  "type": "InfoItem",
+                  "id": "1532",
+                  "clase": "Item",
+                  "name": "Computadora de escritorio de alta gama",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "3A32",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": null
+                },
+                "1531": {
+                  "type": "InfoItem",
+                  "id": "1531",
+                  "clase": "Item",
+                  "name": "Computadora de escritorio de alta gama",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "3A31",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": null
+                },
+                "1530": {
+                  "type": "InfoItem",
+                  "id": "1530",
+                  "clase": "Item",
+                  "name": "Computadora de escritorio de alta gama",
+                  "cantidad": "1",
+                  "estatus": "SinEstatus",
+                  "items": {},
+                  "ubicacion": {
+                    "posicion": "3A30",
+                    "estatus": "SinEstatus"
+                  },
+                  "lote": null
+                }
+              },
+              "ubicacion": {
+                "posicion": "",
+                "estatus": "SinEstatus"
+              },
+              "lote": {
+                "id": null,
+                "clase": null,
+                "name": null,
+                "cantidad": null,
+                "estatus": "sinEstatus",
+                "fechaIngreso": "",
+                "proveedor": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                },
+                "embalajePrimario": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                },
+                "embalajeSecundrio": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                },
+                "embalajeTerciario": {
+                  "id": null,
+                  "clase": null,
+                  "name": null,
+                  "cantidad": null,
+                  "estatus": "sinEstatus"
+                }
+              }
+            }
+          },
+          "ubicacion": {
+            "posicion": "",
+            "estatus": "SinEstatus"
+          },
+          "lote": {
+            "id": null,
+            "clase": null,
+            "name": null,
+            "cantidad": null,
+            "estatus": "sinEstatus",
+            "fechaIngreso": "",
+            "proveedor": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            },
+            "embalajePrimario": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            },
+            "embalajeSecundrio": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            },
+            "embalajeTerciario": {
+              "id": null,
+              "clase": null,
+              "name": null,
+              "cantidad": null,
+              "estatus": "sinEstatus"
+            }
+          }
+        }
+      },
+      "ubicacion": {
+        "posicion": "",
+        "estatus": "SinEstatus"
+      },
+      "lote": {
+        "id": null,
+        "clase": null,
+        "name": null,
+        "cantidad": null,
+        "estatus": "sinEstatus",
+        "fechaIngreso": "",
+        "proveedor": {
+          "id": null,
+          "clase": null,
+          "name": null,
+          "cantidad": null,
+          "estatus": "sinEstatus"
+        },
+        "embalajePrimario": {
+          "id": null,
+          "clase": null,
+          "name": null,
+          "cantidad": null,
+          "estatus": "sinEstatus"
+        },
+        "embalajeSecundrio": {
+          "id": null,
+          "clase": null,
+          "name": null,
+          "cantidad": null,
+          "estatus": "sinEstatus"
+        },
+        "embalajeTerciario": {
+          "id": null,
+          "clase": null,
+          "name": null,
+          "cantidad": null,
+          "estatus": "sinEstatus"
+        }
+      }
+    }
+  },
+  "ubicacion": {
+    "posicion": "SinPosicion",
+    "estatus": "SinEstatus"
+  },
+  "lote": {
+    "id": null,
+    "clase": null,
+    "name": null,
+    "cantidad": null,
+    "estatus": "sinEstatus",
+    "fechaIngreso": "",
+    "proveedor": {
+      "id": null,
+      "clase": null,
+      "name": null,
+      "cantidad": null,
+      "estatus": "sinEstatus"
+    },
+    "embalajePrimario": {
+      "id": null,
+      "clase": null,
+      "name": null,
+      "cantidad": null,
+      "estatus": "sinEstatus"
+    },
+    "embalajeSecundrio": {
+      "id": null,
+      "clase": null,
+      "name": null,
+      "cantidad": null,
+      "estatus": "sinEstatus"
+    },
+    "embalajeTerciario": {
+      "id": null,
+      "clase": null,
+      "name": null,
+      "cantidad": null,
+      "estatus": "sinEstatus"
+    }
+  }
+}
